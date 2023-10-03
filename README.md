@@ -18,6 +18,10 @@ Connect the ultrasonic sensor to the Raspberry Pi as follows:
 3. **TRIG**: Connect this pin on the sensor to **Pin 12 (GPIO18)** on the Raspberry Pi.
 4. **ECHO**: Connect this pin on the sensor to a 330Ω resistor. Connect the other end of the resistor to **Pin 18 (GPIO24)** on the Raspberry Pi. Also, connect this pin through a 470Ω resistor to **Pin 6 (GND)** on the Raspberry Pi.
 
+## Wiring Image
+
+![Ultrasonic Sensor Diagram](distancesensordiagram.png)
+
 ## Coding:
 
 1. Create a Python file for the code:
