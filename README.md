@@ -99,12 +99,10 @@ if __name__ == '__main__':
 ```bash
 sudo python ultrasonic_distance.py
 ```
-## Issues I Had (Learn from My Mistakes, LOL):
+## Issues I Had (Learn from My Mistakes):
 
-- **Resistor Values:** So, let me tell you about my resistor adventure! I had a tough time finding the correct resistor values. In my first attempt, I boldly used a 1K resistor instead of a 470Ω resistor because, well, I didn't have any 470Ω resistors lying around. I figured, "Bigger is better, right?" Wrong! My sensor just didn't perform as expected. Lesson learned: stick to the recommended values!
+- **Resistor Values:** I had a tough time finding the correct resistor values. In my first attempt, I  used a 1K resistor instead of a 470Ω resistor because I didn't have any 470Ω resistors. I figured, "Bigger is better, right?" Wrong. My sensor just didn't perform as expected. Lesson learned: stick to the intended resistor value.
 
-- **Twisted Ribbon Cable:** Ah, the twists and turns of life! I faced another issue where I had the ribbon cable all twisted up. This meant that the wires weren't making solid connections, and my sensor refused to cooperate. It turns out, untwisting things can make your project go much smoother.
+- **Twisted Ribbon Cable:** I faced another issue where I had the ribbon cable all twisted up. This meant that the wires weren't making solid connections, and my sensor refused to connect. It turns out, untwisting things can make your project go much smoother.
 
-- **Color Coding for Fun and Safety:** Here's a pro tip for you: keep those jumper wire colors organized! Red means power, black means ground, and it turns out that following this rule isn't just for neatness; it can save your sensor from getting fried. Who knew electronics could be this colorful and entertaining? 😄
-
-So there you have it, my comedic journey through setting up an ultrasonic sensor. Remember, it's okay to make mistakes along the way. We learn and laugh, and that's all part of the fun of DIY projects! Happy tinkering!
+- **Color Coding:** Just a tip: keep those jumper wire colors organized. Red means power, black means ground, and it turns out that following this rule isn't just for neatness; it can save your sensor from getting fried (like i did LOL).
