@@ -105,6 +105,11 @@ if __name__ == '__main__':
 ```bash
 sudo python ultrasonic_distance.py
 ```
+## Results!
+
+![Ultrasonic Sensor Results](distancesensorresults.png)
+
+
 ## Issues I Had (Learn from My Mistakes):
 
 - **Resistor Values:** I had a tough time finding the correct resistor values. In my first attempt, I  used a 1K resistor instead of a 470Ω resistor because I didn't have any 470Ω resistors. I figured, "Bigger is better, right?" Wrong. My sensor just didn't perform as expected. Lesson learned: stick to the intended resistor value.
