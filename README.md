@@ -105,6 +105,7 @@ if __name__ == '__main__':
 ```bash
 sudo python ultrasonic_distance.py
 ```
+
 ## Results!
 
 ![Ultrasonic Sensor Results](distancesensorresults.png)
