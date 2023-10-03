@@ -5,6 +5,8 @@ This guide is intended to help  set up and use an ultrasonic sensor (HC-SR04) wi
 ## Components Needed:
 
 - Raspberry Pi (has to be up to date)
+- Ribbon Cable
+- Breadboard
 - HC-SR04 Ultrasonic Sensor Module
 - Resistors: 330Ω and 470Ω
 - Jumper Wires
